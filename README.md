@@ -1,6 +1,6 @@
 # Memory 
 
-Un petit jeu de Memory en Python avec Tkinter (aucune dépendance externe).
+Un petit jeu de Memory en Python avec Tkinter
 
 ## Règles
 
@@ -20,6 +20,7 @@ Nécessite Python 3.8+ (Tkinter est inclus avec Python).
 - Choisir la taille de la grille
 - Sauvegarder le meilleur score dans un fichier
 - Ajouter des niveaux de difficulté
+- Mettre en exécutable 
 
 ## Licence
 
