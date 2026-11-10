@@ -16,11 +16,7 @@ Nécessite Python 3.8+ (Tkinter est inclus avec Python).
 
 ## Idées d'amélioration
 
-- Ajouter un chronomètre
-- Choisir la taille de la grille
-- Sauvegarder le meilleur score dans un fichier
-- Ajouter des niveaux de difficulté
-- Mettre en exécutable 
+- ajouter des niveaux différents 
 
 ## Licence
 
